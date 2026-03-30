@@ -1,5 +1,6 @@
 name: Nginx Deployment CI
 
+
 on:
   push:
     branches:
